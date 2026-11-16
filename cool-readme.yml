@@ -1,0 +1,13 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: ZrobDev
+show: [summary, languages, weekly, streaks]
+count:
+  private: false
+  orgs: false
+look:
+  style: dotmatrix
+  color: cyan
+  background: none
+cards:
+  summary:
+    ring: github
